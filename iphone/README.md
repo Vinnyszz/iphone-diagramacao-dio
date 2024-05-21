@@ -1,18 +1,8 @@
-## Getting Started
+# iphone-diagramacao-dio
+Projeto de estudo sobre diagramação e poo do bootcamp dio Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+A parte de modelagem foi feita usando o mermaid
+Segue abaixo a modelação UML do projeto criado:
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![image](https://github.com/Vinnyszz/iphone-diagramacao-dio/assets/72051094/a47404b4-e3db-4b6a-93f0-817af214c951)
