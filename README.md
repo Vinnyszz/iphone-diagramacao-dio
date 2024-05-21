@@ -4,33 +4,5 @@ Projeto de estudo sobre diagramação e poo do bootcamp dio Java
 
 A parte de modelagem foi feita usando o mermaid
 Segue abaixo a modelação UML do projeto criado:
-classDiagram
-    Iphone <|-- ReprodutorMusica
-    Iphone <|-- AparelhoTelefonico
-    Iphone <|-- NavegadorInternet
-    Iphone: +tocar()
-    Iphone: +pausar()
-    Iphone: +selecionarMusica()
-    Iphone: +ligar()
-    Iphone: +atender()
-    Iphone: +IniciarCorreioVoz()
-    Iphone: +exibirPagina()
-    Iphone: +adicionarNovaAba()
-    Iphone: +atualizarPagina()
 
-
-    class ReprodutorMusica{
-      +tocar()
-      +pausar()
-      +selecionarMusica()
-    }
-    class AparelhoTelefonico{
-      +ligar()
-      +atender()
-      +IniciarCorreioVoz()
-    }
-    class NavegadorInternet{
-      +exibirPagina()
-      +adicionarNovaAba()
-      +atualizarPagina()
-    }
+![image](https://github.com/Vinnyszz/iphone-diagramacao-dio/assets/72051094/a47404b4-e3db-4b6a-93f0-817af214c951)
